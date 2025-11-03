@@ -147,8 +147,7 @@ A final summary window will open, presenting the final accuracy and attack rejec
 
 <img width="1087" height="872" alt="image" src="https://github.com/user-attachments/assets/17aaa494-b4bd-4dd0-8dca-db683c334a06" />
 <img width="875" height="853" alt="image" src="https://github.com/user-attachments/assets/ac6ba417-73a7-4d47-ac0c-7f3fa3ffb4c6" />
-```
-set_seed(42)
+``` set_seed(42)
 ```
 
 output is attached 
