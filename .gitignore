@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Docker
+.dockerignore
+docker-compose.yml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+*.log
+*.pot
+*.pyc
+
+# Plots
+*.png
+*.jpg
+
+
+// `docker/Dockerfile`
+
+http://googleusercontent.com/immersive_entry_chip/9
+
+// `docker/docker-compose.yml`0
